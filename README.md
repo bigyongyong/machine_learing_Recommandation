@@ -1,2 +1,2 @@
-# machine_learing_Recommandation
+# machine_learning_Recommandation
 different model for recommandation using machine learning or deep learning
